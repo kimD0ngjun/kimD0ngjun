@@ -6,6 +6,8 @@ Sometimes GitHub is quiet, maybe it's because I forgot to upload the repository 
 
 I want to actively lead beyond being flexible in responding to sudden changes in technological flow. My goal is to become a developer who brings out the virtuous cycle value of collaboration while interacting with what I know.
 
+A late run makes a flutter :)
+
 ---
 
 ## 💻 Skills
