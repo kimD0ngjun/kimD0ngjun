@@ -4,9 +4,7 @@ My name is Jun😊 I've come across development as a front-end, and I want to ex
 
 Sometimes GitHub is quiet, maybe it's because I forgot to upload the repository because I was so into my own projects while eating late-night snacks (probably chicken🍗). It's been so long since my days and nights changed, and my insomnia still doesn't get better.
 
-I want to actively lead beyond being flexible in responding to sudden changes in technological flow. My goal is to become a developer who brings out the virtuous cycle value of collaboration while interacting with what I know.
-
-A late run makes a flutter :)
+I want to actively lead beyond being flexible in responding to sudden changes in technological flow. My goal is to become a developer who brings out the virtuous cycle value of collaboration while interacting with what I know :)
 
 ---
 
