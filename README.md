@@ -30,7 +30,7 @@ I want to actively lead beyond being flexible in responding to sudden changes in
 ---
 
 ## 💬 My languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimD0ngjun&layout=compact)
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimD0ngjun&exclude_repo=kimD0ngjun.github.io&layout=compact&theme=dark" />
 
 <!--
 **kimD0ngjun/kimD0ngjun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
