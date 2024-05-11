@@ -76,6 +76,9 @@
 ---
 
 ## 💬 My languages
+
+<br />
+
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimD0ngjun&exclude_repo=kimD0ngjun.github.io&layout=compact&theme=dark" />
 <br />
 <br />
@@ -83,6 +86,8 @@
 ---
 
 ## 😄 About Me
+
+<br />
 
 My name is Jun😊 I've come across development as a back-end, front-end, and I want to expand my reach to artificial intelligence fields. I enjoy drinking alone, but I don't drink often🍺 and it's just a means of contemplation. Sometimes I write down and consider it📝, or I play the piano🎹
 
