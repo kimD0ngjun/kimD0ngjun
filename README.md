@@ -7,7 +7,7 @@
 <br />
 
 <p align="center">
-프론트엔드를 이해하는 백엔드 개발자입니다<br />
+프론트엔드를 이해하는 <span>$\tt{\large{\color{#31A3F7}백엔드 \ 개발자 }}$</span> 입니다<br />
 겸손한 자신감을 가지며 늘 나아가고 있습니다 :)
 </p>
 
@@ -26,7 +26,7 @@
 
 <p align="center">
   <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" height="65" align='center'/>&nbsp;&nbsp;
-  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="85" height="85" align='center'/>&nbsp;&nbsp;
+  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="75" height="75" align='center'/>&nbsp;&nbsp;
   <img alt="spring logo" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" height="65" width="65" align='center'/> &nbsp;
   <img alt="spring-boot logo" src="https://t1.daumcdn.net/cfile/tistory/27034D4F58E660F616" width="65" height="65" align='center'/>
 </p>
@@ -38,7 +38,8 @@
   <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="85" height="85" align='center' />
   <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" align='center' />&nbsp;
   <img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="styled-components icon" width="65" height="65" align='center' />&nbsp;
-  <img src="https://i.ibb.co/ydkG6cv/img.png" alt="icon" width="65" height="65" align='center' />
+  <img src="https://i.ibb.co/ydkG6cv/img.png" alt="icon" width="65" height="65" align='center' /> &nbsp;&nbsp;
+  <img src="https://github.com/codestates-seb/seb45_main_024/assets/85465266/b1f50001-7fb6-4517-88a2-2399e96f4f21" alt="icon" width="65" height="65" align='center' />
 </p>
 
 <br />
@@ -56,7 +57,7 @@
 
 <p align="center">
   <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" align='center' /> &nbsp;
-  <img src="https://github.com/kimD0ngjun/kimD0ngjun/assets/129869700/492ac731-e1ff-440b-9b97-6f7b39d1d5ae" alt="image" width="80" height="70" align='center' />  &nbsp;
+  <img src="https://github.com/kimD0ngjun/kimD0ngjun/assets/129869700/492ac731-e1ff-440b-9b97-6f7b39d1d5ae" alt="image" width="80" height="70" align='center' />  &nbsp;&nbsp;
   <img src="https://github.com/kimD0ngjun/kimD0ngjun/assets/129869700/daf4354a-49e8-4f99-91e2-f481bf695e89" alt="image" width="80" height="50" align='center' />
 </p>
 
