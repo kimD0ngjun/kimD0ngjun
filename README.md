@@ -76,11 +76,15 @@
 
 ---
 
-## 💬 My languages
+## 📈 Statistics
 
 <br />
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimD0ngjun&exclude_repo=kimD0ngjun.github.io&layout=compact&theme=dark" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimD0ngjun&exclude_repo=kimD0ngjun.github.io&layout=compact&theme=dark" height="170px" />&nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api?username=kimD0ngjun&show_icons=true&theme=radical" height="170px" />
+</p>
+
 <br />
 <br />
 
