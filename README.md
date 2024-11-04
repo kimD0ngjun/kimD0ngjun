@@ -54,7 +54,7 @@
 
 <p align="center">
   <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" align='center' />
-  <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="65" height="65" align='center' />
+  <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="65" height="65" align='center' /> &nbsp;&nbsp;
   <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="80" height="80" align='center' /> &nbsp;
   <img src="https://github.com/kimD0ngjun/kimD0ngjun/assets/129869700/492ac731-e1ff-440b-9b97-6f7b39d1d5ae" alt="image" width="80" height="70" align='center' />  &nbsp;&nbsp;
 </p>
