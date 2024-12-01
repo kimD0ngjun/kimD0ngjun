@@ -5,9 +5,6 @@
   <img src="https://readme-typing-svg.demolab.com/?lines=Welcome+To+My+Sea!;My+Name+is+Jun!;Scientia+Potentia+Est!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
 </p>
 -->
-
-<br />
-
 ## 💬 Introduction
 
 두 번의 부트캠프를 통해 프론트엔드를 이해하는 신입 백엔드 개발자입니다.
