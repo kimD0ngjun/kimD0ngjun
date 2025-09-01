@@ -27,9 +27,12 @@
 ---
 
 ## 📝 Article
-[MSA 환경에서의 인스턴스별 인증 방법 고찰 - 인증 책임 관심사 분리 및 캐시 중앙 처리](https://velog.io/@kim00ngjun_0112/%EC%8B%A4%EC%8B%9C%EA%B0%84-%ED%86%B5%EC%8B%A0-%ED%8A%B8%EB%9E%98%ED%94%BD-%EC%A0%9C%EC%96%B46-MSA-Instance-User-Auth)\
-[JVM 메모리 계측 및 스프링 부트 코드 품질 개선 방향 제시](https://velog.io/@kim00ngjun_0112/Spring-Boot-VisualVM-JMeter%EB%A5%BC-%ED%86%B5%ED%95%9C-%ED%8A%B8%EB%9E%98%ED%94%BD-%EC%8B%9C%EB%82%98%EB%A6%AC%EC%98%A4-%ED%85%8C%EC%8A%A4%ED%8A%B8)\
-[자바의 제네릭에 대한 컴파일러 관점에서의 고찰 - 타입 소거 개념을 중점적으로](https://velog.io/@kim00ngjun_0112/%EC%9E%90%EB%B0%94%EC%9D%98-%EC%A0%9C%EB%84%A4%EB%A6%AD%EC%97%90-%EB%8C%80%ED%95%9C-%EA%B3%A0%EC%B0%B0)
+
+<div align="center">
+  
+![Velog GitHub stats](https://velog-github-badge.vercel.app/badge/kim00ngjun_0112)
+
+</div>
 
 <!--
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/-Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"/> <img src="https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot" /> <img alt="mysql" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"> 
