@@ -26,12 +26,11 @@
 
 ---
 
-## 📝 Article
+## 📝 Record
 
 <div align="center">
-  
-![Velog GitHub stats](https://velog-github-badge.vercel.app/badge/kim00ngjun_0112)
-
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kdj4610" alt="Solved.ac Profile">
+  <img src="https://velog-github-badge.vercel.app/badge/kim00ngjun_0112" alt="Velog GitHub stats">
 </div>
 
 <!--
