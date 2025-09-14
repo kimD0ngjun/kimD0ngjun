@@ -4,7 +4,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Welcome+To+My+Sea!;My+Name+is+Jun!;Scientia+Potentia+Est!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
 </p>
--->
 ## 💬 Introduction
 
 두 번의 부트캠프를 통해 프론트엔드를 이해하는 신입 백엔드 개발자입니다.
@@ -27,10 +26,43 @@
 ---
 
 ## 📝 Record
+-->
+<div align="center">
+
+# 👋 Welcome My Backend GitHub!
+
+</div>
+<br />
 
 <div align="center">
-  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kdj4610" alt="Solved.ac Profile">
-  <img src="https://velog-github-badge.vercel.app/badge/kim00ngjun_0112" alt="Velog GitHub stats">
+  
+## 👨‍💻 Skillful and Developing...
+
+</div>
+
+<div align="center">
+    
+![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white)
+![python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white)
+
+</div>
+
+<br />
+
+<div align="center">
+
+## 📝 Steady Studying...
+
+</div>
+
+<div align="center">
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kdj4610" alt="Solved.ac Profile" />
+</div>
+<br />
+<div align="center">
+  <img src="https://velog-github-badge.vercel.app/badge/kim00ngjun_0112" alt="Velog GitHub stats" />
 </div>
 
 <!--
