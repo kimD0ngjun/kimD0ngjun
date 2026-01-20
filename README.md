@@ -62,7 +62,9 @@
 </div>
 <br />
 <div align="center">
-  <img src="https://velog-github-badge.vercel.app/badge/kim00ngjun_0112" alt="Velog GitHub stats" />
+  <a href="https://kimd0ngjun.tistory.com" target="_blank">  
+    <img src="https://tistory-post-card.vercel.app/api/post?name=kimd0ngjun&theme=light" alt="tistory" />
+  </a>
 </div>
 
 <!--
