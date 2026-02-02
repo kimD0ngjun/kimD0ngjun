@@ -13,10 +13,15 @@
 </p>
 
 ## 📝 Steady Studying...
-<table align="center">
+<!-- <table align="center">
   <tr>
     <td align="center"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kdj4610" /></td>
     <td align="center"><img src="https://tistory-post-card.vercel.app/api/post?name=kimd0ngjun&theme=light" /></td>
     <td align="center"><img src="https://velog-github-badge.vercel.app/badge/kim00ngjun_0112" /></td>
   </tr>
-</table>
+</table> -->
+<div align="center">
+  <p><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kdj4610" /></p>
+  <p><img src="https://tistory-post-card.vercel.app/api/post?name=kimd0ngjun&theme=light" /></p>
+  <p><img src="https://velog-github-badge.vercel.app/badge/kim00ngjun_0112" /></p>
+</div>
