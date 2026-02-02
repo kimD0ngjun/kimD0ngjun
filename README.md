@@ -27,20 +27,22 @@
 
 ## 📝 Record
 -->
-<div align="center">
 
-# 👋 Welcome My Backend GitHub!
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Redressed&size=35&pause=2500&color=2296F7&width=435&lines=Sic+Parvis+Magna+%3A)" alt="Typing SVG" />
+</a>
 
-</div>
-<br />
 
-<div align="center">
   
 ## 👨‍💻 Skillful and Developing...
-
+<div style="display:flex; flex-direction:column; align-items:flex-start;">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="java" />
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white" alt="spring" />
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="python" />
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white" alt="kotlin" />
 </div>
 
-<div align="center">
+<!-- <div align="center">
     
 ![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white)
@@ -49,23 +51,15 @@
 
 </div>
 
+<br /> -->
 <br />
-
-<div align="center">
 
 ## 📝 Steady Studying...
 
-</div>
+<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kdj4610" alt="Solved.ac Profile" />
+<img src="https://tistory-post-card.vercel.app/api/post?name=kimd0ngjun&theme=light" alt="tistory" />
+<img src="https://velog-github-badge.vercel.app/badge/kim00ngjun_0112" alt="Velog GitHub stats" />
 
-<div align="center">
-  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kdj4610" alt="Solved.ac Profile" />
-</div>
-<br />
-<div align="center">
-  <a href="https://kimd0ngjun.tistory.com" target="_blank">  
-    <img src="https://tistory-post-card.vercel.app/api/post?name=kimd0ngjun&theme=light" alt="tistory" />
-  </a>
-</div>
 
 <!--
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/-Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"/> <img src="https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot" /> <img alt="mysql" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"> 
